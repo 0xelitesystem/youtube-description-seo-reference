@@ -8,15 +8,19 @@ A YouTube description does double duty: it helps viewers and it feeds search and
 
 ## What is inside
 
-- `01-the-description-structure.md` what goes where, and why the first lines matter most.
-- `02-the-companion-post.md` turning a video into a citable page.
-- `03-transcripts-and-chapters.md` the parts engines extract from.
-- `04-citability-for-video.md` writing so AI engines quote your content.
-- `05-the-checklist.md` a per-video check.
+- [01-the-description-structure.md](01-the-description-structure.md) what goes where, and why the first lines matter most.
+- [02-the-companion-post.md](02-the-companion-post.md) turning a video into a citable page.
+- [03-transcripts-and-chapters.md](03-transcripts-and-chapters.md) the parts engines extract from.
+- [04-citability-for-video.md](04-citability-for-video.md) writing so AI engines quote your content.
+- [05-the-checklist.md](05-the-checklist.md) a per-video check.
 
 ## How this fits the portfolio
 
 This applies the citability and GEO approach from the answer-engine and GEO references specifically to video, where a creator's discovery problem is sharpest. It pairs with those references rather than repeating them.
+
+## More
+
+Part of a catalog of single-file browser tools and plain-language references, all MIT licensed and dependency-free: [0xelitesystem.github.io](https://0xelitesystem.github.io/). Built by [elitesystem.ai](https://elitesystem.ai).
 
 ## License
 
